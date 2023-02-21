@@ -3,6 +3,5 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - jupyterlab
   - numpy
 prefix: /home/compphys/anaconda3/envs/jupyter
