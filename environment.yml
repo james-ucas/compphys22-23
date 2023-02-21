@@ -1,0 +1,9 @@
+name: jupyter
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter_server[version='>2.0.0']
+  - jupyterlab
+  - numpy
+prefix: /home/compphys/anaconda3/envs/jupyter
