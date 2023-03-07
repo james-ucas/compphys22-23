@@ -4,4 +4,5 @@ channels:
 dependencies:
   - python=3.10
   - numpy
+  - matplotlib
 prefix: /home/compphys/anaconda3/envs/jupyter
